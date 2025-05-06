@@ -1,7 +1,6 @@
 import setuptools
 setuptools.setup(     
-     name="sub-module",     
+     name="calculator",     
      version="0.0.1",
-     python_requires=">=3.6",   
-     packages=["calculator"],
+     python_requires=">=3.6"
 )
